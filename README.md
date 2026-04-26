@@ -44,7 +44,7 @@
 <body>
 
 <header>
-    <h1>🦖 Dinossauros</h1>
+    <h1> Dinossauros</h1>
     <p>Conheça um pouco sobre esses animais incríveis</p>
 </header>
 
@@ -70,7 +70,7 @@
     </div>
 
     <div class="card">
-        <h2>🦕 Curiosidades</h2>
+        <h2> Curiosidades</h2>
         <ul>
             <li>Os dinossauros foram extintos há cerca de 65 milhões de anos</li>
             <li>Acredita-se que um meteoro causou a extinção</li>
